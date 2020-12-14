@@ -1,6 +1,10 @@
-.bg-primary {
-    background-color: #522157;
+body {
+    background-image: url('../Images/sunset.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
+
 
 
 #jumbo2{
@@ -46,3 +50,10 @@ h5{
     padding: 5px;
 }
 
+.bg-primary {
+    background-color: #522157;
+}
+
+h3 {
+    color: white;
+}
